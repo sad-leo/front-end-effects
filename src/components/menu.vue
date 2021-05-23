@@ -60,9 +60,9 @@ export default {
   box-shadow: 0px 0px 5px #fff;
   display: flex;
   flex-direction: column;
-  width: 15vh;
+  width: 200px;
   top: 5vh;
-  left: calc(-15vw + 3px);
+  left: -200px;
   font-size: 12px;
   background: rgba(0, 0, 0, 0.5);
   z-index: 9999;
