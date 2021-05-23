@@ -38,6 +38,10 @@ const routes = [{
         path: '/frostedglass',
         component: () => import('../views/FrostedGlass.vue'),
     },
+    {
+        path: '/telescopicnavbar',
+        component: () => import('../views/TelescopicNavBar.vue'),
+    },
 ]
 
 const router = createRouter({

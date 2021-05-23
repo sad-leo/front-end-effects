@@ -43,6 +43,10 @@ export default {
           path: '/frostedglass',
           name: '毛玻璃特效',
         },
+        {
+          path: '/telescopicnavbar',
+          name: '伸缩式导航栏',
+        },
       ],
     }
   },
